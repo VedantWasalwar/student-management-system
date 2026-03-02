@@ -1,11 +1,12 @@
 ## 📸 Project Screenshots  
 
-### 🔐 Admin Login Page  
-![Admin Login](admin-login.png)
+<p align="center">
+  <img src="admin-login.png" width="600"/>
+</p>
 
-### 📊 Dashboard Page  
-![Dashboard](dashboard.png)
-
+<p align="center">
+  <img src="dashboard.png" width="600"/>
+</p>
 
 
 # 🎓 Student Management System  
