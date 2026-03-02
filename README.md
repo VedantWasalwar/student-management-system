@@ -1,13 +1,21 @@
 ## 📸 Project Screenshots  
 
-<p align="center">
-  <img src="admin-login.png" width="600"/>
-</p>
+<table align="center">
+<tr>
+<td align="center">
 
-<p align="center">
-  <img src="dashboard.png" width="600"/>
-</p>
+### 🔐 Admin Login  
+<img src="admin-login.png" width="500"/>
 
+</td>
+<td align="center">
+
+### 📊 Dashboard  
+<img src="dashboard.png" width="500"/>
+
+</td>
+</tr>
+</table>
 
 # 🎓 Student Management System  
 
