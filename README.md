@@ -1,3 +1,13 @@
+## 📸 Project Screenshots  
+
+### 🔐 Admin Login Page  
+![Admin Login](admin-login.png)
+
+### 📊 Dashboard Page  
+![Dashboard](dashboard.png)
+
+
+
 # 🎓 Student Management System  
 
 🚀 A fully functional **web-based Student Management System** developed using PHP & MySQL and successfully deployed online.
