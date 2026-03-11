@@ -33,6 +33,6 @@ if(isset($_POST['login'])){
 </div>
 
 <!-- Footer -->
-<footer style="position:fixed; bottom:10px; width:100%; text-align:center; color:white;">
-    © <?php echo date("Y"); ?> Developed by <b>Vedant Wasalwar</b>
+<footer style="position:fixed; bottom:0; width:100%; text-align:center; padding:10px; color:white;">
+© <?php echo date("Y"); ?> Developed by <b>Vedant Wasalwar</b>
 </footer>
