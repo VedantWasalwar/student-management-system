@@ -31,3 +31,8 @@ if(isset($_POST['login'])){
         <button type="submit" name="login">Login</button>
     </form>
 </div>
+
+<!-- Footer -->
+<footer style="position:fixed; bottom:10px; width:100%; text-align:center; color:white;">
+    © <?php echo date("Y"); ?> Developed by <b>Vedant Wasalwar</b>
+</footer>
